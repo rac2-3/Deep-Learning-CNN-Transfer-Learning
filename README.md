@@ -98,8 +98,8 @@ The custom CNN performed better on the CIFAR-10 dataset due to the small image s
 ## Project Structure
 
 ```
+├── Assignment-2 Report.pdf
 ├── Assignment_2.ipynb
-├── Assignment_Report.docx
 ├── README.md
 ```
 
